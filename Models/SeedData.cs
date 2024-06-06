@@ -25,6 +25,7 @@ public static class SeedData
                     Title = "Oppenheimer",
                     ReleaseDate = DateTime.Parse("2023-7-21"),
                     Genre = "Drama",
+                    Rating = "R",
                     Price = 12.99M
                 },
                 new Movie
@@ -32,6 +33,7 @@ public static class SeedData
                     Title = "Barbie",
                     ReleaseDate = DateTime.Parse("2023-7-21"),
                     Genre = "Comedy",
+                    Rating = "R",
                     Price = 11.99M
                 },
                 new Movie
@@ -39,6 +41,7 @@ public static class SeedData
                     Title = "Dune: Part Two",
                     ReleaseDate = DateTime.Parse("2023-11-3"),
                     Genre = "Science Fiction",
+                    Rating = "R",
                     Price = 14.99M
                 },
                 new Movie
@@ -46,6 +49,7 @@ public static class SeedData
                     Title = "The Marvels",
                     ReleaseDate = DateTime.Parse("2023-11-10"),
                     Genre = "Action",
+                    Rating = "R",
                     Price = 13.99M
                 },
                 new Movie
@@ -53,6 +57,7 @@ public static class SeedData
                     Title = "Avatar: The Way of Water",
                     ReleaseDate = DateTime.Parse("2022-12-16"),
                     Genre = "Adventure",
+                    Rating = "R",
                     Price = 15.99M
                 }
             );
