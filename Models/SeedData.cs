@@ -33,7 +33,7 @@ public static class SeedData
                     Title = "Barbie",
                     ReleaseDate = DateTime.Parse("2023-7-21"),
                     Genre = "Comedy",
-                    Rating = "R",
+                    Rating = "PG-13",
                     Price = 11.99M
                 },
                 new Movie
@@ -60,6 +60,7 @@ public static class SeedData
                     Rating = "R",
                     Price = 15.99M
                 }
+
             );
             context.SaveChanges();
         }
