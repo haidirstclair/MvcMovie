@@ -150,9 +150,31 @@ Tested the app by searching by genre, by movie title, and by both in the web bro
 1435
 Added the Rating property to the movie model by editing Models/Movie.cs. Also added the Rating property in MovieController.cs. Edited Index.cshtml to include the new rating field.
 
+Time 1 Hour 30 Minutes
+
 2024-06-06
 1309
+Updated the /Views/Movies/Create.cshtml with a Rating field.
 
+1325
+Migrated the rating database and updated the database
+
+1326
+Validated Error UI: "Its works"
+
+1331
+Examined the Details and Delete methods
+"Everything is Great"
+
+1338
+Configurated github,
+commit and push
+
+Finish
+
+Time 30 Minutes
+
+Total time: 4 Hours
 
 
 
